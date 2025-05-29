@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "banners4bm",
+  "version": "${version}",
+  "name": "Banners4BM",
+  "description": "",
+  "authors": [
+    "nincodedo", "djefrey"
+  ],
+  "license": "MIT",
+  "icon": "assets/banners4bm/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.nincodedo.fabric.Banners4BMFabric"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "bluemap": ">=5.2"
+  }
+}

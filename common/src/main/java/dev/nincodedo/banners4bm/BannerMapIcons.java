@@ -1,7 +1,7 @@
 package dev.nincodedo.banners4bm;
 
 import de.bluecolored.bluemap.api.BlueMapAPI;
-import net.minecraft.util.DyeColor;
+import net.minecraft.world.item.DyeColor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
